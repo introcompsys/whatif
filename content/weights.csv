@@ -1,0 +1,11 @@
+,badge_type,badge,complexity,weight,influence
+0,learning,experience,2.0,1.0,2.0
+1,learning,review,3.0,1.0,3.0
+2,learning,practice,6.0,1.0,6.0
+3,learning,explore,9.0,1.0,9.0
+4,learning,build,36.0,1.0,36.0
+0,community,plus,1.0,1.8,1.8
+1,community,experience_makeup,1.0,0.6666666666666666,0.6666666666666666
+2,community,review_makeup,1.0,0.75,0.75
+3,community,review_upgrade,1.0,1.0,1.0
+4,community,practice_makeup,1.0,0.8571428571428571,0.8571428571428571
